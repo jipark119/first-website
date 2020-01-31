@@ -1,7 +1,7 @@
 Welcome to Mandu Recipe Website
 =================
 
-Please find the website link here: [Link]https://jipark119-first-website.glitch.me/
+Please find the website link here: https://jipark119-first-website.glitch.me/
 
 
 Project Inspiration
@@ -12,4 +12,4 @@ If you’ve never heard of mandu, it’s a Korean-style dumpling that can be fil
 
 -------------------
 
-\ ゜o゜)ノ
+ʕ•́ᴥ•̀ʔっ♡
